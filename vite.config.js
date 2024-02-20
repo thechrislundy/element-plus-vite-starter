@@ -41,8 +41,7 @@ export default defineConfig({
         ElementPlusResolver({
           importStyle: 'sass',
         }),
-      ],
-      dts: 'src/components.d.ts',
+      ]
     }),
 
     // https://github.com/antfu/unocss
